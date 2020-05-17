@@ -1,0 +1,28 @@
+There are two types of programming 
+1. sequentlly
+2.multithreading in js (asynchronous programming)
+
+agar like button click kiya na to webserver pehle pura page reload katra tha...
+but AJAX page reload nahi karega utna part reload hoga..
+eg: combobox --->country bheja server pe pr state js se bhejega.
+
+XML this is markhup language..
+consists of tags..
+json is stringyfy(json pe convert karne k liye)
+vapas conert kargerne k liye parse karna padega
+GET i want this data
+POST please give me the data
+
+eg insta post we are getting the GET posts
+but when we post we are POST tje 
+
+
+XHR ko http protocol lagta hai.
+
+
+https://www.tutorialrepublic.com/php-tutorial/
+
+
+https://www.w3schools.com/php/php_json.asp
+
+readystate variable hai vo status batyene
